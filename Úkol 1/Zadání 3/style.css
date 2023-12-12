@@ -1,0 +1,14 @@
+.okok:hover {
+    background-color: blue;
+    color: white;
+}
+
+.okok {
+    background-color: white;
+    color: black;
+    font-size: larger;
+}
+.kk {
+    display: flex;
+    font-size: x-large;
+}

@@ -1,0 +1,25 @@
+.okok:hover {
+    background-color: blue;
+    color: white;
+}
+
+.okok {
+    background-color: white;
+    color: black;
+    font-size: larger;
+}
+
+.jj {
+    color: black;
+    background-color: white;
+    font-size: larger;
+}
+
+.jj:hover {
+    background-color: rgb(236, 233, 233);
+}
+
+.kk {
+    display: flex;
+    font-size: x-large;
+}
