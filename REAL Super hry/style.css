@@ -1,0 +1,57 @@
+.pexesoImg:hover {
+    border: solid 4px rgb(204, 255, 0);
+    margin-top: -2px;
+}
+
+.containerImg {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.tiktakImg:hover {
+    border: solid 4px rgb(204, 255, 0);
+    margin-top: -2px;
+}
+
+.cont2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.cont3 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.contHover:hover {
+    border: solid 4px rgb(204, 255, 0);
+    margin-top: -2px;
+}
+
+
+
+
+
+
+
+
+
+body {
+    background: linear-gradient(-45deg, #34e1f5, #002aff, #23a6d5, #0066ff);
+    background-size: 400% 400%;
+    animation: gradient 5s ease infinite;
+    height: 100vh;
+  }
+  
+  @keyframes gradient {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }

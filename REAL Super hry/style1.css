@@ -7,7 +7,7 @@
   body {
     height: 100vh;
     display: flex;
-    background: #141414;
+    background-image: url(https://wiki.teamfortress.com/w/images/thumb/7/74/Wallpaper_team_fortress_2.jpg/240px-Wallpaper_team_fortress_2.jpg);
   }
  
   .memory-game {
